@@ -1,9 +1,10 @@
 # eds220-hwk4
 # False Color Imagery and The 2017 Thomas Fire
-### The goal:
+### Goal:
 The goal of this project was to create a false color map of Santa Barbara County with a perimeter around the burn area of the 2017 Thomas Fire.
 
-MEDS/EDS-220/eds220-
+
+## Repository Structure
 
 ```bash
 eds220-hwk4
@@ -25,6 +26,17 @@ eds220-hwk4
 │
 
 ```
+
+## Data
+
+Data for the fire perimeter is from Californias CAL FIRE. It originated from the California Fire Perimeters (all) dataset.
+
+Link to CAL FIRE data: https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436
+
+Data for the landsat imagery is from data from Microsofts Landsat Collection 2 Level-2 data set. The landsat data was accessed through workbench-2.bren.ucsb.edu. 
+
+Link to Landsat data:
+https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2
 
 ### Sources:
 Landsat Collection 2 Level-2: Microsoft. (2024). Landsat Collection 2 Level-2. Microsoft Planetary Computer. Accessed 11/23/2024, from https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2
