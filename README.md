@@ -1,5 +1,5 @@
 # eds220-hwk4
-# False Color Imagery and The Thomas Fire
+# False Color Imagery and The 2017 Thomas Fire
 ### The goal:
 The goal of this project was to create a false color map of Santa Barbara County with a perimeter around the burn area of the 2017 Thomas Fire.
 
